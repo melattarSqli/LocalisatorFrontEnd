@@ -20,7 +20,7 @@ export const FormStep3 = () => {
         };
          
         console.log(requestOptions.body);
-        fetch('http://localhost:8080/api/fieldTranslation', requestOptions)
+        fetch('http://localhost:8090/api/fieldTranslation', requestOptions)
             .then(response => response.json())
 
         

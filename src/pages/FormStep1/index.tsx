@@ -40,7 +40,7 @@ export const FormStep1 = () => {
             };
              
             console.log(requestOptions.body);
-            fetch('http://localhost:8080/api/treeNode', requestOptions)
+            fetch('http://localhost:8090/api/treeNode', requestOptions)
                 .then(response => response.json())
         } else{
             alert('fill in the data correctly')

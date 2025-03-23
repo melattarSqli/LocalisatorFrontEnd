@@ -20,7 +20,7 @@ display: flex ;
 `
 export const Sidebar = styled.div`
 width: 40% ;
-border-right: 1px solid rgb(91, 24, 153);
+border-right: 1px solid rgb(0, 0, 0);
 
 `
 export const Page = styled.div`

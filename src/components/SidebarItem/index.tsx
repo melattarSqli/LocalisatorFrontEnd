@@ -6,6 +6,7 @@ import {ReactComponent as TwoIcon} from '../../svgs/two.svg';
 import {ReactComponent as ThreeIcon} from '../../svgs/three.svg';
 import {ReactComponent as FourIcon} from '../../svgs/four.svg';
 
+
 type Props = {
     title: string;
     description: string;

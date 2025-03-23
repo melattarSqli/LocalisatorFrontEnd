@@ -6,12 +6,12 @@ padding: 40px ;
 P{
     display: block ;
     font-size: 25px ;
-    color: rgb(91, 24, 153) ;
+    color: rgb(0, 0, 0) ;
 }
 h2{
     display: block ;
     margin-bottom: 5px ;
-    color: rgb(91, 24, 153) ;
+    color: rgb(0, 0, 0) ;
     font-size: 35px;
 }
 .check-email{
@@ -28,7 +28,7 @@ input {
     box-sizing: border-box;
     width: 100%;
     padding: 20px 10px;
-    border: 2px solid rgb(91, 24, 153);
+    border: 2px solid rgb(0, 0, 0);
     border-radius: 10px;
     font-size: 28px;
     outline: 0;
@@ -39,7 +39,7 @@ input {
 a{
     padding: 0 15px 0 15px ;
     text-decoration:none ;
-    color:rgb(91, 24, 153) ;
+    color:rgb(0, 0, 0) ;
 }
 
 button{
@@ -47,7 +47,7 @@ button{
     width:120px;
     height: 50px ;
     border-radius: 10px ;
-    background-color: rgb(91, 24, 153);
+    background-color: rgb(0, 0, 0);
     color: whitesmoke ;
     border: none;
     margin-top: 20px;

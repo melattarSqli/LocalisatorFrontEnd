@@ -1,7 +1,7 @@
 import styled from 'styled-components' 
 
 export const Container = styled.div`
-padding: 30px ;
+padding: 50px ;
 
 P{
     display: block ;
@@ -17,7 +17,7 @@ label{
     margin-bottom:5px;
 }
 button{
-    cursor: pointer ;
+    
     width:120px;
     height: 50px ;
     border-radius: 10px ;
@@ -26,12 +26,6 @@ button{
     border: none;
     margin-top: 20px;
 
-
-}
-a{
-    padding: 0 15px 0 15px ;
-    text-decoration:none ;
-    color:rgb(0, 0, 0) ;
 }
 
 .passo{

@@ -43,7 +43,7 @@ export const FormStep2 = () => {
         };
          
         console.log(requestOptions.body);
-        fetch('http://localhost:8080/api/field', requestOptions)
+        fetch('http://localhost:8090/api/field', requestOptions)
             .then(response => response.json())
     }
 
